@@ -10,13 +10,14 @@
 <body>
     <section>
         <h1>Bob's Burgers Ipsum</h1>
-        <form>
+        <form class="ipsumForm">
             <label for="numOfParas">How many patties do you want?</label>
             <div class="selectNumOfParas">
                 <input type="number" min="1" max="5" value="1" id="numOfParas" />
             </div>
             <button type="submit" class="btn border border-dark">Generate Ipsum of the Day</button>
         </form>
+        <article class="ipsumText"></article>
     </section>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
     <script src="script.js"></script>
