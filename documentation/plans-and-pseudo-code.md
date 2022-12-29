@@ -1,6 +1,6 @@
 ### Road Blocks
 
-- Current code along uses set paragraphs of ipsum. So each paragraph generated is the exact same as the time before... I want random sentences or chunks of sentences generated to make a unique paragraph each time. Stick with example to get things working for now.
+- Current code along uses set paragraphs of ipsum. So each paragraph generated is the exact same as the time before (and in the same order as the array)... I want random sentences or chunks of sentences generated to make a unique paragraph each time. Stick with example to get things working for now.
 
 ### Immediate Plan
 
