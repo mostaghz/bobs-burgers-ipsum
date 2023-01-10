@@ -30,7 +30,15 @@ const text = [
     `Jairo knows a lot about life. Hmm. Jairo says he can hypnotise animals. Shh. But only if they want to be hypnotised... which they almost always do.`,
     `It's time for my afternoon meeting, you know, in the bathroom. Your 4:30 meeting? Yeah, my 4:30.`,
     `Let me show you some very convenient sphincter-tightening exercises. No, thank you. Tight. Relax. I don't want... Tight. Relax. Stop it! Tight. Don't do sphincter-tightening exercises in my restaurant.`,
-    `I just looked up troca de cordoes. It's Portuguese for "exchange of strands." Sounds momentous. This very day, she's becoming a woman, exchanging her strands.`
+    `I just looked up troca de cordoes. It's Portuguese for "exchange of strands." Sounds momentous. This very day, she's becoming a woman, exchanging her strands.`,
+    // S1 E5
+    `What are you gonna do with quarters, Lin? I'll plop them in their g-strings. You'll plop quarters in their g-strings. Plop them right in. Flippity flop.`,
+    `Good evening, ladies. Please enter and be tained.`,
+    `We might have overdone it a little on the gore. Well, no harm done. Except for the people being treated for shock. Yeah, and the people who demanded their money back. Eh.`,
+    `♪ The murderer was me ♪ ha ha! What? You explicitly told us at the beginning of the show you weren't the murderer. That's right. It's a twist. No. It's a lie. A lie is not a twist.`,
+    `Shut up, greaseball. Don't call me greaseball... Uh, mask face.`,
+    `"The chemistry between the robber character and the lonely morgue operator was sparktastic." Did anyone mention the food? Uh... No. Great. So the robbery got rave reviews. Bob, we're a hit. No, Linda. We were hit.`,
+    `Does this mean you're in a gang now? That is correct. Our gang is called the broken glass kids. We'll cut you.`,
 ];
 
 let form = document.querySelector(".ipsumForm");
