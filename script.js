@@ -39,6 +39,18 @@ const text = [
     `Shut up, greaseball. Don't call me greaseball... Uh, mask face.`,
     `"The chemistry between the robber character and the lonely morgue operator was sparktastic." Did anyone mention the food? Uh... No. Great. So the robbery got rave reviews. Bob, we're a hit. No, Linda. We were hit.`,
     `Does this mean you're in a gang now? That is correct. Our gang is called the broken glass kids. We'll cut you.`,
+    // S1 E6 - +3 quotes because I couldn't decide
+    `Why is everyone reading her diary? It's well-written. She's better on the page than in person.`,
+    `Dad, you won't regret this. When I kiss Jimmy Jr. Under the disco ball, it'll be like we're all kissing Jimmy Jr.`,
+    `Guess who learned a lot about transvestites last night. I was only on that web site for, like, two seconds. What? No. I was talking about me.`,
+    `Is this drool or sweat? It's both. Your father is a very moist sleeper.`,
+    `If you want a bag of hair so bad, why don't you just pick it out of the food you serve here? Ka-boom! How dare you. No 'stache, no bash.`,
+    `Why didn't you wake me up? I tried. That was not the first pickle I dropped on your face.`,
+    `So, marshmallow, how'd you get your name? 'Cause if you show me a sweet potato pie, I am on top of it.`,
+    `Tina, I know you're upset because Jimmy Jr.'s not here, and that there are more transvestites than you imagined, but...`,
+    `It's like I always say. When life gives you lemons... Tuck em'!`,
+    `He's a regular over at the desire dungeon. He's what's known as a diaper-lover. You know what that is? It's nasty.`,
+
 ];
 
 let form = document.querySelector(".ipsumForm");
