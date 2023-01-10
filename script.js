@@ -22,7 +22,15 @@ const text = [
     `There's no such thing as bad publicity. This could be huge for us. Like a sex tape.`,
     `I call to the stand Moolissa. Objection! That cow's faking his injuries! And I can prove it. Think fast. Overruled. Moolissa, is the man who killed you in the courtroom today?`,
     `Well, I had a crazy dream that there wouldn't be a cow's a-s-s in my face when I'm eating my breakfast. I know what that spells.`,
-    `Everybody, serpentine. Yes! We're a unit. Dad, you should know if anything happens, I am in full attack mode right now. Me, too. I'm hungry for blood. And also candy.`
+    `Everybody, serpentine. Yes! We're a unit. Dad, you should know if anything happens, I am in full attack mode right now. Me, too. I'm hungry for blood. And also candy.`,
+    // S1 E4
+    `Tina, if you're gonna lay on the floor, at least roll around so I don't have to mop up later.`,
+    `They take off their shoes so when they open the door, the whole block smells like feet. Feet that have been cooked in feet. Oh! Ooh. Ooh. That smells exotic, like ranch dressing.`,
+    `Capoeira is the most seductive form of self-defence. It combines peacefulness, fighting, and cardio in perfect harmony. Capoeira is breathtaking, but it is also breath-giving.`,
+    `Jairo knows a lot about life. Hmm. Jairo says he can hypnotise animals. Shh. But only if they want to be hypnotised... which they almost always do.`,
+    `It's time for my afternoon meeting, you know, in the bathroom. Your 4:30 meeting? Yeah, my 4:30.`,
+    `Let me show you some very convenient sphincter-tightening exercises. No, thank you. Tight. Relax. I don't want... Tight. Relax. Stop it! Tight. Don't do sphincter-tightening exercises in my restaurant.`,
+    `I just looked up troca de cordoes. It's Portuguese for "exchange of strands." Sounds momentous. This very day, she's becoming a woman, exchanging her strands.`
 ];
 
 let form = document.querySelector(".ipsumForm");
