@@ -50,7 +50,14 @@ const text = [
     `Tina, I know you're upset because Jimmy Jr.'s not here, and that there are more transvestites than you imagined, but...`,
     `It's like I always say. When life gives you lemons... Tuck em'!`,
     `He's a regular over at the desire dungeon. He's what's known as a diaper-lover. You know what that is? It's nasty.`,
-
+    // S1 E7
+    `Wait, you had a three-way with Ray, the guy who wears the sales suit down on the pier? Yeah. I mean I wasn't involved, I just watched. But... yeah.`,
+    `Myfungal beetles feed on fungus, and this town has a very, very high potency of fungus. Uh, that's actually our town motto.`,
+    `Remember the time you asked me to check your prostate and you made a poopie?`,
+    `Our guests are such party poopers. All of 'em! No one has any b&b spirit at all!`,
+    `What are you doing? Oh, hi, Louise. I was just... Oh, hi, mom. Hello. You're holding my stuff. Hello, my little lady. Hello, mom. What are you doing with my stuff?`,
+    `See you in a little... bit at the wine-and- cheese mixer, Teddy. Sounds good, Linda. And I'll see you in hell, Teddy. I'm sorry, Teddy. I will see you in hell!`,
+    `Will you please help me get Javed and the Samuels out of their rooms? I locked them in and I... I kind of lost the key.`
 ];
 
 let form = document.querySelector(".ipsumForm");
