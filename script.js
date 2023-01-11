@@ -57,7 +57,15 @@ const text = [
     `Our guests are such party poopers. All of 'em! No one has any b&b spirit at all!`,
     `What are you doing? Oh, hi, Louise. I was just... Oh, hi, mom. Hello. You're holding my stuff. Hello, my little lady. Hello, mom. What are you doing with my stuff?`,
     `See you in a little... bit at the wine-and- cheese mixer, Teddy. Sounds good, Linda. And I'll see you in hell, Teddy. I'm sorry, Teddy. I will see you in hell!`,
-    `Will you please help me get Javed and the Samuels out of their rooms? I locked them in and I... I kind of lost the key.`
+    `Will you please help me get Javed and the Samuels out of their rooms? I locked them in and I... I kind of lost the key.`,
+    // S1 E8
+    `Yeah, I heard she ate her lipstick once because she wanted to feel red inside. And she made a dress out of live shrimp and wore it to mass. Oh, and she shaved her cat.`,
+    `There are some poorly supervised children amongst the art.`,
+    `Linda, there are animal anuses all over our walls. Just think of 'em as cute little rumps. Lin, they're anuses.`,
+    `But if you're going artsy, then you're going all the way. Someone's cutting off an ear. I need both of mine. I wear glasses. Welp, what's your excuse? Don't got one. Have at it.`,
+    `Tina, what do you got? It's our dentist. Dr. Yap? Why is he nude? Wait, has he been nude with you, Tina?! I exercised some artistic license. Uh, I... we're switching dentists.`,
+    `What's it going to take to get you into this rhino anus today? You are in direct violation of my wife, Bob.`,
+    `You were the one who said we had to support your sister. I did support her, until I figured out a way to destroy her art while preserving her feelings and blaming someone else.`
 ];
 
 let form = document.querySelector(".ipsumForm");
