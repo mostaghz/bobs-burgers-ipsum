@@ -65,7 +65,15 @@ const text = [
     `But if you're going artsy, then you're going all the way. Someone's cutting off an ear. I need both of mine. I wear glasses. Welp, what's your excuse? Don't got one. Have at it.`,
     `Tina, what do you got? It's our dentist. Dr. Yap? Why is he nude? Wait, has he been nude with you, Tina?! I exercised some artistic license. Uh, I... we're switching dentists.`,
     `What's it going to take to get you into this rhino anus today? You are in direct violation of my wife, Bob.`,
-    `You were the one who said we had to support your sister. I did support her, until I figured out a way to destroy her art while preserving her feelings and blaming someone else.`
+    `You were the one who said we had to support your sister. I did support her, until I figured out a way to destroy her art while preserving her feelings and blaming someone else.`,
+    // S1 E9
+    `Ugh. Mr. Frond? He's a tall drink of... annoying. That may be true, but you're gonna drink that drink, mister!`,
+    `You don't say the punch lines to other people's jokes anymore!`,
+    `Everyone laughed. Well, one kid laughed. Peter Pescadero. He has a learning disability. Yeah, but he knows what's funny.`,
+    `If you ever gossip about me to Jimmy Jr. outside of a conflict resolution skit, I'll punch you in the face.`,
+    `When you say “this is dumb”... it makes me feel like pinching you in the eye.`,
+    `Tina, you're supposed to be watching the restaurant! I'm too upset to serve food. Wh-What'd you do? Did you lock up? Yes. Were there customers inside? I don't know.`,
+    `Let me tell you about that ziti. That sauce was store-bought, and you know it!`
 ];
 
 let form = document.querySelector(".ipsumForm");
