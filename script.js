@@ -73,7 +73,15 @@ const text = [
     `If you ever gossip about me to Jimmy Jr. outside of a conflict resolution skit, I'll punch you in the face.`,
     `When you say “this is dumb”... it makes me feel like pinching you in the eye.`,
     `Tina, you're supposed to be watching the restaurant! I'm too upset to serve food. Wh-What'd you do? Did you lock up? Yes. Were there customers inside? I don't know.`,
-    `Let me tell you about that ziti. That sauce was store-bought, and you know it!`
+    `Let me tell you about that ziti. That sauce was store-bought, and you know it!`,
+    // S1 E10
+    `Oh, no offence, Bob, but I have a policy that I don't dine at any of my tenants' establishments. Oh. But I saw you eating at juicy Sushi. That's different. That place is incredible!`,
+    `Let's rub our eyes together. You can get my pink eye! Okay! Ow. Ow. Ow. Ow.`,
+    `When I die, I want you to cremate me and throw my ashes in Tom Selleck's face. That's a crazy request. I get it.`,
+    `Louise, what do you got? When I was young and naive, I would have said "arson," but I'm gonna go with "voodoo."`,
+    `He calls it "the meatsiah." It's beef tartare inside a burger medium-well inside a burger Wellington.`,
+    `They'll try the samples, and they'll love 'em, but they'll want more. More! They'll be craving these burgers, itching to get their fix! Like heroin. That's right son, like heroin!`,
+    `No, no, you are an artist... a beef artist. A be-fartist! A poet! Who writes with meat and buns and pickles. Like a greasy, heterosexual Walt Whitman.`
 ];
 
 let form = document.querySelector(".ipsumForm");
