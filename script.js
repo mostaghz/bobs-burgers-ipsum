@@ -89,7 +89,15 @@ const text = [
     `Who wants to help me glue a toupee on an old man's cadaver? Yay! This is like camp.`,
     `Long day slaving over the old embalming table. Well, let me just say that I've been embalming you with my eyes since the moment you walked in.`,
     `I'm not a zombiephile. I have a complicated relationship with zombies. They're dangerous, but I love their swagger.`,
-    `You drunk enough to be any fun yet? Yeah, I guess.`
+    `You drunk enough to be any fun yet? Yeah, I guess.`,
+    // S1 E12
+    `It's no fun being a burger man in a seafood town.`,
+    `Hey, what are you guys looking at over there? Um, nothing. Just pictures of people... Doing it. Oh. Hey, wait a minute. That's not porn. You brought a Lobsterfest brochure into this house?`,
+    `Now, who here thinks the hurricane was caused by something bad they did? What about you, Nicholas? That thing you told me? In confidence? Say it. I rub my genitals on the couch. We're all gonna die because of you!`,
+    `I think this might develop into a party type situation!`,
+    `Lobsterfest is dead. Bobsterfest killed it! Long live Bobsterfest!`,
+    `You wouldn't like it if someone messed with your precious butter! Like stuff a big, hairy toe in it!`,
+    `I have finished my butter analysis. Bob's skin flakes, arm hair and fingernail dirt are all present. No! That's disgusting! Let me finish! They're present, but not at threatening levels.`
 ];
 
 let form = document.querySelector(".ipsumForm");
