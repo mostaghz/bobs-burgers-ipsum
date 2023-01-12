@@ -81,7 +81,15 @@ const text = [
     `Louise, what do you got? When I was young and naive, I would have said "arson," but I'm gonna go with "voodoo."`,
     `He calls it "the meatsiah." It's beef tartare inside a burger medium-well inside a burger Wellington.`,
     `They'll try the samples, and they'll love 'em, but they'll want more. More! They'll be craving these burgers, itching to get their fix! Like heroin. That's right son, like heroin!`,
-    `No, no, you are an artist... a beef artist. A be-fartist! A poet! Who writes with meat and buns and pickles. Like a greasy, heterosexual Walt Whitman.`
+    `No, no, you are an artist... a beef artist. A be-fartist! A poet! Who writes with meat and buns and pickles. Like a greasy, heterosexual Walt Whitman.`,
+    // S1 E11
+    `I just got mould-certified. In a month, I'll be cleared for vermin, too.`,
+    `Do I have a medicine cabinet full of corpse moisturisers? Ooh! Yes. Do they make my skin soft as a baby? You decide.`,
+    `The bus from speed? Yeah, the bus from speed. I didn't even know you liked that movie so much. I never saw it. I don't like to see the movie until I finish the model.`,
+    `Who wants to help me glue a toupee on an old man's cadaver? Yay! This is like camp.`,
+    `Long day slaving over the old embalming table. Well, let me just say that I've been embalming you with my eyes since the moment you walked in.`,
+    `I'm not a zombiephile. I have a complicated relationship with zombies. They're dangerous, but I love their swagger.`,
+    `You drunk enough to be any fun yet? Yeah, I guess.`
 ];
 
 let form = document.querySelector(".ipsumForm");
