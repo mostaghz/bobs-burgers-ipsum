@@ -130,7 +130,8 @@ form.addEventListener('submit', e => {
         text[j] = temp;
     let value = parseInt(numOfParas.value, 10);
     let tempText = text.slice(0, value);
-    tempText = tempText.map(item => `<p class="result">${item}</p>`).join("");
+    // removing p tag from the map item throws everything into just ONE paragraph
+    tempText = tempText.map(item => ` ${item}`).join("");
     result.innerHTML = tempText;
     }
 });
