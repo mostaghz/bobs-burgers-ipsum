@@ -97,7 +97,18 @@ const text = [
     `I think this might develop into a party type situation!`,
     `Lobsterfest is dead. Bobsterfest killed it! Long live Bobsterfest!`,
     `You wouldn't like it if someone messed with your precious butter! Like stuff a big, hairy toe in it!`,
-    `I have finished my butter analysis. Bob's skin flakes, arm hair and fingernail dirt are all present. No! That's disgusting! Let me finish! They're present, but not at threatening levels.`
+    `I have finished my butter analysis. Bob's skin flakes, arm hair and fingernail dirt are all present. No! That's disgusting! Let me finish! They're present, but not at threatening levels.`,
+    // S1 E13 +3 quotes because I couldn't decide
+    `What, you don't want to buy burgers from a guy who smells like pee?`,
+    `You know, the skadootch is just one of those pitches. When it was on, it was really on. But when it wasn't... it's like hitting candy out of a baby's hand... with a bat.`,
+    `Makes you wonder about the tattoos we can't see. On their butts.`,
+    `Joining your Wonder Wharf mascots today is a special guest food, a burger! A boy who is also a burger.`,
+    `Gene, are you kidding me?! The name of the restaurant is Bob's Burgers! Well, I call you Dad! I think of it as Dad's Burgers! You live above it! You work in it every day!`,
+    `I did many bad things to escape Cuba. Things that haunt me in the dark of the night.`,
+    `Oh. My wonderdog is hanging out. Yes. Yes, it is. I got so caught up in our conversation, I forgot to zip.`,
+    `Well, I'm still gluing a knife to my foot.`,
+    `Boy, this microphone smells like beer. Well, let's just say AA was "A" waste of time.`,
+    `You remind me of my father. He was honest, and he worked hard. You an immigrant, Bob? Um... no. Just swarthy? I guess.`
 ];
 
 let form = document.querySelector(".ipsumForm");
