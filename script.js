@@ -117,6 +117,14 @@ const text = [
     `I don't understand... why is it still here? Well... I may have slipped a penis pill into your casserole.`,
     `She went to find the treasure by herself because we're "a burden." Gene, what did I tell you about finger quotes? Not to "do" them. But ironic detachment is great. Nothing means anything!`
     `Stupid book. I'm sick of acting like a dumb, helpless girl just so a hot boy who dances his feelings will notice me. That's not who I am. I'm a smart, strong, sensual woman.`,
+    // S2 E2
+    `Channel six news. They'll finger anything with a pulse. I'm pretty sure their slogan is, their "finger's on the pulse," Gene. No! That can't be right. It's right.`,
+    `It looks like a huge, misshapen penis. It's Bob's Burgers. It's supposed to be a fish, not a rocket, or a penis. It's a penis.`,
+    `How did you first get into bank robbing? Pfft. Me and a buddy of mine, we just kind of fell into it. You know, I had a gun, I needed some money.`,
+    `I understand your husband is one of the hostages inside the bank. Yes. Bobby, if you're listening, we love you, baby. If you make it out of there, I will do anything, anything you want. Except that one thing.`,
+    `Are there cops on the phone? Yeah, but I'm whispering. Yeah, we can't hear anything. Go ahead. See?`,
+    `Mickey! What advice would you give young people? Who's your hero? What's your favourite pig-out food? Stay in school, Superman, potato chips if I'm sad, chocolate if I'm bad.`,
+    `He's splayed out like that, with his hands on his head, ass in the breeze. It's like his pants just kind of gave up. My pants are staying on.`
 ];
 
 let form = document.querySelector(".ipsumForm");
