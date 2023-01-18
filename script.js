@@ -108,7 +108,15 @@ const text = [
     `Oh. My wonderdog is hanging out. Yes. Yes, it is. I got so caught up in our conversation, I forgot to zip.`,
     `Well, I'm still gluing a knife to my foot.`,
     `Boy, this microphone smells like beer. Well, let's just say AA was "A" waste of time.`,
-    `You remind me of my father. He was honest, and he worked hard. You an immigrant, Bob? Um... no. Just swarthy? I guess.`
+    `You remind me of my father. He was honest, and he worked hard. You an immigrant, Bob? Um... no. Just swarthy? I guess.`,
+    // S2 E1
+    `I'm making a three-bean salad, but it's bring your own bean. Can I put you down for garbanzo?`,
+    `I'm gonna roll. Ugh. I got "lick" "foot" again. Lick it like you like it. No. Lick it like you like it. No more lick foot. Lick it like you like it. Lick... No more lick foot. This little piggy goes all the way home.`,
+    `Dear Diary, tonight we're sneaking into the dangerous taffy factory. Also, if boys had uturses they'd be called duderuses.`,
+    `The treasure's in the crack of the ass, and it's close. I can smell it.`,
+    `I don't understand... why is it still here? Well... I may have slipped a penis pill into your casserole.`,
+    `She went to find the treasure by herself because we're "a burden." Gene, what did I tell you about finger quotes? Not to "do" them. But ironic detachment is great. Nothing means anything!`
+    `Stupid book. I'm sick of acting like a dumb, helpless girl just so a hot boy who dances his feelings will notice me. That's not who I am. I'm a smart, strong, sensual woman.`,
 ];
 
 let form = document.querySelector(".ipsumForm");
@@ -130,8 +138,7 @@ form.addEventListener('submit', e => {
         text[j] = temp;
     let value = parseInt(numOfParas.value, 10);
     let tempText = text.slice(0, value);
-    // removing p tag from the map item throws everything into just ONE paragraph
-    tempText = tempText.map(item => ` ${item}`).join("");
+    tempText = tempText.map(item => `<p>${item}</p>`).join("");
     result.innerHTML = tempText;
     }
 });
