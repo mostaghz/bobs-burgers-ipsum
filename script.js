@@ -143,7 +143,15 @@ const text = [
     `What's your job? I have a burger restaurant. Really? Is that so you can get better at the game? It's unrelated.`,
     `I've eaten nine birthday cakes, and I still feel empty. I mean, who are these people? Who are you, who am I?`,
     `Hi, I'm here for the orphan benefit, Tots Without Yachts? I'm the orphan.`,
-    `I'm so high. Okay, now, guys, just touch... touch your smiles together, okay? This is going really well.`
+    `I'm so high. Okay, now, guys, just touch... touch your smiles together, okay? This is going really well.`,
+    // S2 E5
+    `What's so great about getting food from a truck? There's no sitting area. There's no bathroom. There's long lines. Who eats like that? Animals eat like that.`,
+    `Good luck with your terrible life. Good luck with your stupid walk. I hate the way you walk. Oh, good luck with wearing that face all over the world. Good luck with your ble... your blemishy face. My what? B... B... B-what?? Good luck with your speech therapy.`,
+    `It's tight quarters, but it's kind of cozy. If by "cozy," you mean it reeks. Yeah, why do your armpits smell like feet?`,
+    `We need a handle online. The Cat Burger-lers. Hmm, we're not an improv group. Beef curtains.`,
+    `Is this organic? Sure. Is it grass-fed? Yes. Cruelty-free? Is it bison? That one is. Do these pair well with an IPA? It goes well with all letters.`,
+    `It's not a lie if you lie to vegetarians.`,
+    `Talk to me, Goose.`
 ];
 
 let form = document.querySelector(".ipsumForm");
