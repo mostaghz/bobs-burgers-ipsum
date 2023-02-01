@@ -151,7 +151,15 @@ const text = [
     `We need a handle online. The Cat Burger-lers. Hmm, we're not an improv group. Beef curtains.`,
     `Is this organic? Sure. Is it grass-fed? Yes. Cruelty-free? Is it bison? That one is. Do these pair well with an IPA? It goes well with all letters.`,
     `It's not a lie if you lie to vegetarians.`,
-    `Talk to me, Goose.`
+    `Talk to me, Goose.`,
+    // S2 E6
+    `Dr. Yap is dreamy. When he's looking at my molars, it's like he's looking right into my soul.`,
+    `That's right, Bob. Your negligent flossing habits are funding my one way ticket to Pound Town.`,
+    `Your tongue feels so much different than my cat's.`,
+    `So, you got any plans this weekend? Well, I have a family, so I don't really make plans.`,
+    `I'm not wearing anything under my snowsuit. Oh, my God! Except for my long underwear. And my socks. And my other socks. And a maxi pad.`,
+    `Dr. Yap, earlier today, I fell for you. But after watching you torture my father, I think we should just be friends. With dental benefits.`,
+    `Be one of the tallest guys in the bar, and brag about how long your butt-crack is.`
 ];
 
 let form = document.querySelector(".ipsumForm");
