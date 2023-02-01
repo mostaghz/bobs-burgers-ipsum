@@ -132,7 +132,18 @@ const text = [
     `All right, so, uh... you'll need an adult to supervise you. We know an adult. We definitely know an adult.`,
     `I now pronounce you Team Soft Serve. I made a soft serve this morning, so I should be captain.`,
     `I needed to let my baby birds fly... my bratty little baby birds fly with their crappy little wings. That was... Sometimes you just got to push 'em out the window.`,
-    `You did a Caddyshack? Nice move. What's a Caddyshack? The movie... Caddyshack? Never heard of it. Wait, so you didn't just throw a candy bar in the pool? No. Oh, my God.`
+    `You did a Caddyshack? Nice move. What's a Caddyshack? The movie... Caddyshack? Never heard of it. Wait, so you didn't just throw a candy bar in the pool? No. Oh, my God.`,
+    //S2 E4 +3 quotes because I couldn't decide
+    `We could buy an island. No. And then a smaller island nearby, for farting.`,
+    `Oh, Bobby, is this turning into another one of your peeing races with Jimmy? It's not called a peeing race, Lin. It's called a pissing contest.`,
+    `You better go easy. You could have the carpal tunnels.`,
+    `I'm not leaving any stone unturned, Lin! They're all gonna be turned! All the stones!`,
+    `♪ If you're not real then how come I feel this way? Little babies ♪.`,
+    `I'm gonna stow away in a rope bin and fight a rat over a block of cheese. If we see any mermaids, I'm gonna ask them where their mer-ginas are. We're not taking sailing classes, you rubes.`,
+    `What's your job? I have a burger restaurant. Really? Is that so you can get better at the game? It's unrelated.`,
+    `I've eaten nine birthday cakes, and I still feel empty. I mean, who are these people? Who are you, who am I?`,
+    `Hi, I'm here for the orphan benefit, Tots Without Yachts? I'm the orphan.`,
+    `I'm so high. Okay, now, guys, just touch... touch your smiles together, okay? This is going really well.`
 ];
 
 let form = document.querySelector(".ipsumForm");
