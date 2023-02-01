@@ -124,7 +124,15 @@ const text = [
     `I understand your husband is one of the hostages inside the bank. Yes. Bobby, if you're listening, we love you, baby. If you make it out of there, I will do anything, anything you want. Except that one thing.`,
     `Are there cops on the phone? Yeah, but I'm whispering. Yeah, we can't hear anything. Go ahead. See?`,
     `Mickey! What advice would you give young people? Who's your hero? What's your favourite pig-out food? Stay in school, Superman, potato chips if I'm sad, chocolate if I'm bad.`,
-    `He's splayed out like that, with his hands on his head, ass in the breeze. It's like his pants just kind of gave up. My pants are staying on.`
+    `He's splayed out like that, with his hands on his head, ass in the breeze. It's like his pants just kind of gave up. My pants are staying on.`,
+    // S2 E3
+    `Lin, why do you do this prenatal yoga? You're... I mean, you're not pregnant. Your youngest child is nine.`,
+    `Oh, last night, I dreamt I was breast-feeding Gene again, and he had a long white beard like Santa Claus. Oh, it was freaky. That could be our next Christmas card.`,
+    `Don't feed a guy a sponge, Bobby. Don't feed a guy a sponge. You put it in your mouth, Teddy.`,
+    `All right, so, uh... you'll need an adult to supervise you. We know an adult. We definitely know an adult.`,
+    `I now pronounce you Team Soft Serve. I made a soft serve this morning, so I should be captain.`,
+    `I needed to let my baby birds fly... my bratty little baby birds fly with their crappy little wings. That was... Sometimes you just got to push 'em out the window.`,
+    `You did a Caddyshack? Nice move. What's a Caddyshack? The movie... Caddyshack? Never heard of it. Wait, so you didn't just throw a candy bar in the pool? No. Oh, my God.`
 ];
 
 let form = document.querySelector(".ipsumForm");
