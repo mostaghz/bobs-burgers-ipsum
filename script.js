@@ -167,7 +167,18 @@ const text = [
     `You're like a benign tumour. With a little bit of hair and teeth.`,
     `Well, your haircut's overdone and dry! And you, your pants are overdone and dry! Look at your dumb face! It's overdone and dry!`,
     `What the hell is wrong with you? I had a nightmare, Lin. I worked in an office. I had to sign a birthday card.`,
-    `Well, let's just say some of my fellow disgruntled restaurateurs have been dump sacking your house.`
+    `Well, let's just say some of my fellow disgruntled restaurateurs have been dump sacking your house.`,
+    // S2 E8 +3 quotes because I couldn't decide
+    `Are there any shows or movies left in the world that you haven't perved up? No. That's why I've started writing erotic friend fiction. Using people at school and zombies.`,
+    `Tina, no offence, but this tour is giving me a snore-gasm. Show me something good. Well, there's a typo on the lunch menu. It says "browie."`,
+    `Detention is no big deal, Mom. Don't have a crap attack. What did you just say? A crap attack. Don't have one.`,
+    `We're not skipping Cake. Okay, fine. But I'm gonna complain the whole time.`,
+    `I think Tammy laugh-farted. That really smells, Tammy. What? I didn't fart, you did! Oh. Okay. Come on, if you're gonna be loud, you got to be proud!`,
+    `Oh, you are drunk, Mom. No, I'm not. Yeah, 'cause you're yelling. I'm talking normal. Hm. Mommy doesn't get drunk. She just has fun.`,
+    `Piercing booth! Y'all do nips or scrotes?`,
+    `Oh, he's been slapping everything since we got back from that show. It's called "caking," Lin.`,
+    `Let's see what happens when we lose the glasses. They kind of make your face look like math class. Thank you? No, math class is bad.`,
+    `Bob? You're a patty daddy? I love cake! Want to cake with me? Oh. You know, I'm really not a fan. A patty cake, a patty cake, a baker's man! Woo!`,
 ];
 
 let form = document.querySelector(".ipsumForm");
