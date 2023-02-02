@@ -159,7 +159,15 @@ const text = [
     `So, you got any plans this weekend? Well, I have a family, so I don't really make plans.`,
     `I'm not wearing anything under my snowsuit. Oh, my God! Except for my long underwear. And my socks. And my other socks. And a maxi pad.`,
     `Dr. Yap, earlier today, I fell for you. But after watching you torture my father, I think we should just be friends. With dental benefits.`,
-    `Be one of the tallest guys in the bar, and brag about how long your butt-crack is.`
+    `Be one of the tallest guys in the bar, and brag about how long your butt-crack is.`,
+    // S2 E7
+    `I've been mapping the Moody Foody's patterns for months. He follows a precise ethnic sequence in restaurants: Asian, European, Latin, American. Like Larry King with his wives.`,
+    `Draw a picture of my dad's moustache really giving it to a caterpillar.`,
+    `Time for the charm bomb to explode.`,
+    `You're like a benign tumour. With a little bit of hair and teeth.`,
+    `Well, your haircut's overdone and dry! And you, your pants are overdone and dry! Look at your dumb face! It's overdone and dry!`,
+    `What the hell is wrong with you? I had a nightmare, Lin. I worked in an office. I had to sign a birthday card.`,
+    `Well, let's just say some of my fellow disgruntled restaurateurs have been dump sacking your house.`
 ];
 
 let form = document.querySelector(".ipsumForm");
