@@ -189,7 +189,15 @@ const text = [
     `Okay, okay, that'll be $5. Throw in another five and he'll burp in your face.`,
     `I refuse to live in a house with low-flush toilets. I deserve the full flush, Linda.`,
     `The last time I used superglue, I accidentally glued my wiener to my remote control helicopter.`,
-    `A-boobity-boobity-boobity-boo!`
+    `A-boobity-boobity-boobity-boo!`,
+    // S3 E1
+    `Somebody threw a snow cone at my windshield today. I thought I hit a rainbow. It was terrifying.`,
+    `Oh, the azaleas are beautiful in Macon. Second only to their crank. That sweet Macon crank.`,
+    `Hey, you don't want to mess with my sister. She'll wear down your self-esteem over a period of years.`,
+    `Why don't you go back to plan-school because looks like you need a better one. Why don't YOU go to plan-school?!`,
+    `I have summoned the wrath of the One Eyed Snakes!`,
+    `Oh, why don't you go fart in a phone booth!`,
+    `I don't know how Mudflap's doing this without an epidural. If I didn't have one with Logan? Whoo! Ugh, tell me about it. Those two? Piece of cake. That one? A whole cake.`
 ];
 
 let form = document.querySelector(".ipsumForm");
