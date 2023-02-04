@@ -197,7 +197,7 @@ const text = [
     `Why don't you go back to plan-school because looks like you need a better one. Why don't YOU go to plan-school?!`,
     `I have summoned the wrath of the One Eyed Snakes!`,
     `Oh, why don't you go fart in a phone booth!`,
-    `I don't know how Mudflap's doing this without an epidural. If I didn't have one with Logan? Whoo! Ugh, tell me about it. Those two? Piece of cake. That one? A whole cake.`
+    `I don't know how Mudflap's doing this without an epidural. If I didn't have one with Logan? Whoo! Ugh, tell me about it. Those two? Piece of cake. That one? A whole cake.`,
     // S3 E2
     `Tina, you have to put your costume back on the roll tomorrow. I'm not losing that much TP.`,
     `Wrap it up, Charles Dickens. You're not being paid by the word.`,
@@ -205,15 +205,15 @@ const text = [
     `Full bars! She just gave us full-sized chocolate bars. Does she know? My God, was it an accident?! What just happened? How does this not topple your economy?`,
     `Let's get off this godforsaken island and back to the armpit we call home.`,
     `Yeah, if there's one thing a wiener hates, it's hot sauce. I learned that the hard way. Mmm. Taco on the toilet.`,
-    `And so, the hell hunters become... the ones who are being hell-huntered.`
+    `And so, the hell hunters become... the ones who are being hell-huntered.`,
     // S3 E3
     `This is my friend Brilly. A scouring pad? A scouring pal. And my World War II fighter plane. And my dog, Mr. Doglavich. That's soap.`,
     `Look at how you stand. People who had good childhoods don't stand like that.`,
-    `It turned out the prosecutor was on meth for the entire trial! And he drove his car into a peacock sanctuary. Now he's in jail and I'm out!`,
     `Ugh! Summer is awful. There's too much pressure to enjoy yourself. It's like New Year's Eve for kids.`,
-    `...and then I woke up nude on horseback in the forest, and there she was, my Beverly. She looked like a faerie queen pooping under a tree.`,
     `Tina, you'll be our blueberry delivery girl. Just remember, if you get jammed up, you don't know my name and you don't know where this farm is.`,
     `He's the helpful, enthusiastic employee we've never had. I wish he'd wear underwear though.`,
+    `Ten dollars in my pocket, Gene got bitten by a lizard, we're living the dream, guys.`,
+    `I've got double jeopardy! What do you mean you have double jeopardy? I'm robbing the same bank, Bob. They can't try me for it again.`
 ];
 
 let form = document.querySelector(".ipsumForm");
