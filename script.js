@@ -198,6 +198,14 @@ const text = [
     `I have summoned the wrath of the One Eyed Snakes!`,
     `Oh, why don't you go fart in a phone booth!`,
     `I don't know how Mudflap's doing this without an epidural. If I didn't have one with Logan? Whoo! Ugh, tell me about it. Those two? Piece of cake. That one? A whole cake.`
+    // S3 E2
+    `Tina, you have to put your costume back on the roll tomorrow. I'm not losing that much TP.`,
+    `Wrap it up, Charles Dickens. You're not being paid by the word.`,
+    `I'll trade you two packets of hot sauce for a fortune cookie. Throw in some cough drops and you got a deal. Sold. This town is horrible at Halloween.`,
+    `Full bars! She just gave us full-sized chocolate bars. Does she know? My God, was it an accident?! What just happened? How does this not topple your economy?`,
+    `Let's get off this godforsaken island and back to the armpit we call home.`,
+    `Yeah, if there's one thing a wiener hates, it's hot sauce. I learned that the hard way. Mmm. Taco on the toilet.`,
+    `And so, the hell hunters become... the ones who are being hell-huntered.`
 ];
 
 let form = document.querySelector(".ipsumForm");
