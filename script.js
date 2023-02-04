@@ -179,6 +179,17 @@ const text = [
     `Oh, he's been slapping everything since we got back from that show. It's called "caking," Lin.`,
     `Let's see what happens when we lose the glasses. They kind of make your face look like math class. Thank you? No, math class is bad.`,
     `Bob? You're a patty daddy? I love cake! Want to cake with me? Oh. You know, I'm really not a fan. A patty cake, a patty cake, a baker's man! Woo!`,
+    // S2 E9 +3 quotes because I couldn't decide
+    `Flu season is right around the corner. So our local beauty expert will be here to show you how to look hot, even if you have a cold.`,
+    `Dad's hogging the bathroom so I'm using the guest bathroom! Ugh, Gene. Come on, you've let me do it before! Fine. But move the dishes.`,
+    `Is no one going to comment on my Sasquatch mask? Middle child. Anything for attention.`,
+    `This is me now!`,
+    `Oh, hello. Are you a little bunny? I smell fear on you. Okay. I don't like that one.`,
+    `Uh, actually, these eggplants were freshly laid by the chickenplant this morning.`,
+    `Okay, okay, that'll be $5. Throw in another five and he'll burp in your face.`,
+    `I refuse to live in a house with low-flush toilets. I deserve the full flush, Linda.`,
+    `The last time I used superglue, I accidentally glued my wiener to my remote control helicopter.`,
+    `A-boobity-boobity-boobity-boo!`
 ];
 
 let form = document.querySelector(".ipsumForm");
