@@ -206,6 +206,14 @@ const text = [
     `Let's get off this godforsaken island and back to the armpit we call home.`,
     `Yeah, if there's one thing a wiener hates, it's hot sauce. I learned that the hard way. Mmm. Taco on the toilet.`,
     `And so, the hell hunters become... the ones who are being hell-huntered.`
+    // S3 E3
+    `This is my friend Brilly. A scouring pad? A scouring pal. And my World War II fighter plane. And my dog, Mr. Doglavich. That's soap.`,
+    `Look at how you stand. People who had good childhoods don't stand like that.`,
+    `It turned out the prosecutor was on meth for the entire trial! And he drove his car into a peacock sanctuary. Now he's in jail and I'm out!`,
+    `Ugh! Summer is awful. There's too much pressure to enjoy yourself. It's like New Year's Eve for kids.`,
+    `...and then I woke up nude on horseback in the forest, and there she was, my Beverly. She looked like a faerie queen pooping under a tree.`,
+    `Tina, you'll be our blueberry delivery girl. Just remember, if you get jammed up, you don't know my name and you don't know where this farm is.`,
+    `He's the helpful, enthusiastic employee we've never had. I wish he'd wear underwear though.`,
 ];
 
 let form = document.querySelector(".ipsumForm");
