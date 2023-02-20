@@ -213,7 +213,15 @@ const text = [
     `Tina, you'll be our blueberry delivery girl. Just remember, if you get jammed up, you don't know my name and you don't know where this farm is.`,
     `He's the helpful, enthusiastic employee we've never had. I wish he'd wear underwear though.`,
     `Ten dollars in my pocket, Gene got bitten by a lizard, we're living the dream, guys.`,
-    `I've got double jeopardy! What do you mean you have double jeopardy? I'm robbing the same bank, Bob. They can't try me for it again.`
+    `I've got double jeopardy! What do you mean you have double jeopardy? I'm robbing the same bank, Bob. They can't try me for it again.`,
+    // S3 E4
+    `Then, Tina, when people start coming ashore: pow, coupons! 50% off to all cruise ship passengers. Pow. Try "poo". That always gets attention.`,
+    `Rooty-toot-toot, someone's wearin' a white suit! I think that's the captain, Lin. White pants, take a chance.`,
+    `Is this restaurant seaman friendly?`,
+    `Shh! He can hear you. He put a microphone in the cheese grater. Act normal.`,
+    `Whoo, throw a ripped wedding dress on this daiquiri 'cause it is not a virgin!`,
+    `Duval, these oysters are spoiled. You're spoiled!`,
+    `Linda, we're being shanghaied! Shanghaied? Ooh! Ancient Chinese vacation!`
 ];
 
 let form = document.querySelector(".ipsumForm");
