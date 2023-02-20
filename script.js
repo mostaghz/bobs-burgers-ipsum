@@ -221,7 +221,15 @@ const text = [
     `Shh! He can hear you. He put a microphone in the cheese grater. Act normal.`,
     `Whoo, throw a ripped wedding dress on this daiquiri 'cause it is not a virgin!`,
     `Duval, these oysters are spoiled. You're spoiled!`,
-    `Linda, we're being shanghaied! Shanghaied? Ooh! Ancient Chinese vacation!`
+    `Linda, we're being shanghaied! Shanghaied? Ooh! Ancient Chinese vacation!`,
+    // S3 E5
+    `Yeah, it's a little weird, but it's his selection process. It's like The Bachelor, but at the end, the one he chooses gets eaten. That's what happens on the real Bachelor, too.`,
+    `That turkey is our mom now.`,
+    `♪ Pass the cranberry sauce. We're having mashed potatoes. Ooh, the turkey looks great. Thank you for loving me. Thank you for being there. Everyone's thankin', the whole world's thankin' you. Thankin' us for thankin' you. Kill the turkey. ♪`,
+    `A poultry within a poultry. It's like Inception, with meats.`,
+    `Oh, I bet there are actual skeletons in these closets. And a dungeon full of Dungeness crabs. I bet when you flush the toilets, the water evaporates upwards and forms a rainbow. Two of you are correct.`,
+    `Now, our job tonight is to fool the woman of my dreams into believing that we are a loving, happy nuclear family that she can destroy.`,
+    `I respect myself too much not to be the other woman.`
 ];
 
 let form = document.querySelector(".ipsumForm");
