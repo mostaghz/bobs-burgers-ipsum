@@ -229,7 +229,15 @@ const text = [
     `A poultry within a poultry. It's like Inception, with meats.`,
     `Oh, I bet there are actual skeletons in these closets. And a dungeon full of Dungeness crabs. I bet when you flush the toilets, the water evaporates upwards and forms a rainbow. Two of you are correct.`,
     `Now, our job tonight is to fool the woman of my dreams into believing that we are a loving, happy nuclear family that she can destroy.`,
-    `I respect myself too much not to be the other woman.`
+    `I respect myself too much not to be the other woman.`,
+    // S3 E6
+    `I'm lactose intolerant, Linda. Oh. I'm also intolerant of that suspicious-looking bicycle outside, Bob.`,
+    `All I get is this whistle. Don't knock the whistle. Whistles stop hundreds of crimes every year. And thousands of basketball plays.`,
+    `I want something coming out of here, here, and/or here. The three-hole standard of excellence.`,
+    `They shot one of those shark movies right here in town-- The Deepening 3. Oh, yeah, in 3-D. Right, The Deepening 3D-eeepening.`,
+    `Fischoeder is crazy to keep that thing going. After what happened to that girl's arm and that lady's poor dog and that guy's balls-- you know, the juggler.`,
+    `It's like the Running of the Bulls but dumber. Yeah, but with a shark.`,
+    `Anyway, we dig a big hole, the shark falls in and hopefully, end of our problems. Beginning of China's problems! Sorry, China! They'll nail it. They're really smart.`,
 ];
 
 let form = document.querySelector(".ipsumForm");
